@@ -22,7 +22,7 @@ real-time-detection.py : which opens a video streaming, detecting the face in ea
 
 
 # Results
-
+![](images/model_summary.png) 
 
 
 
