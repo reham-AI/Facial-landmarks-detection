@@ -22,6 +22,7 @@ real-time-detection.py : which opens a video streaming, detecting the face in ea
 
 
 # Results
+samples after training the model for 20 epochs
 
 
 ![](images/test(2x6).png) 
