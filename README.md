@@ -3,8 +3,7 @@ The objective is to train a deep neural network to detect and predict 15 facial 
 
 
 
-
-                                                          ![](images/test1.png)                     ![](images/test2.png)  
+![](images/test1.png)                     ![](images/test2.png)  
 
 
 
