@@ -17,6 +17,10 @@ real-time-detection.py : which opens a video streaming, detecting the face in ea
 
 # Summary for the CNN architecture
 
+
+![](images/model_summary.png) 
+
+
 # Results
 
 
