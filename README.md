@@ -11,8 +11,10 @@ The CNN takes any images as an input, pre-process them (converting to grayscale 
 
 The project consists of 3 python files:
 
-model.py : including the convolutional neural network atchitecture
+model.py : including the convolutional neural network atchitecture.
+
 preprocessing_modelTraining.py : includes the preprocessing of the input data and training stage for the CNN model.
+
 real-time-detection.py : which opens a video streaming, detecting the face in each frame and predicting its 15 landmark.
 
 # Summary for the CNN architecture
